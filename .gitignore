@@ -1,0 +1,13 @@
+build/
+install/
+log/
+.codex/
+
+*.pyc
+__pycache__/
+.catkin_tools/
+.ros/
+
+slam/**/Log/
+slam/**/PCD/
+slam/**/data/
